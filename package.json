@@ -9,7 +9,7 @@
   "main": "index.js",
   "dependencies": {
     "cheerio": "0.12.1",
-    "express": "^3.5.1",
+    "express": "^4.0.0",
     "formidable": "^1.0.15",
     "http-proxy": "~0.10.4",
     "mime": "~1.2.11",
